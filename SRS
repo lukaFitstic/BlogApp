@@ -1,0 +1,21 @@
+Pseudo SRS:
+Obbiettivo progetto:
+Creazione di un blog con possibilità di risposta tramite commenti da altri utenti
+
+Organizzazione progetto:
+utilizzo di un db per l'immaganizzazione dei vari post e registrazioni degli utenti.
+visualizzazione a schermo nella apposita pagina i propri post;
+visualizzazione a schermo nella pagina principale (Home) i posti di tutti gli utenti
+Cose da fare:
+Fondamentali
+login/sign up
+pagina personale
+pagina home
+tasto aggiunta nuovo post da intefaccia
+tasti rimozione e modifica del post
+inserimento di commenti sotto i post da utenti esterni
+
+Facoltativi:
+inserimento blog consigliati in base a gli hastag
+inserimento blog consigliati in base ai generi
+possibilità si cambio password

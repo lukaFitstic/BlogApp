@@ -5,7 +5,7 @@ from django.db import models
 class Author(models.Model):
     name = models.CharField(max_length=50)
     surname = models.CharField(max_length=50)
-    age = models.IntegerField()
+    age = models.IntegerField(null=True)
     stageName = models.CharField(max_length=50)
     def __str__(self):
         return self.stageName
