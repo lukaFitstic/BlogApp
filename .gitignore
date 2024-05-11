@@ -3,7 +3,7 @@ venv/
 env/
 
 # File di configurazione specifici per il tuo ambiente locale
-.env
+.venv
 
 # File generati dagli IDE
 .vscode/
